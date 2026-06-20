@@ -9,7 +9,7 @@ This repository consists of a responsive clone of the Netflix website.
 ## 📦 Getting Started
 To view and run this project locally, follow these simple steps:
 1. Clone the repository:
-   git clone [https://github.com/ShreshthGupta-6/Netflic_Clone.git](https://github.com/ShreshthGupta-6/Netflix_Clone.git)
+   git clone [https://github.com/ShreshthGupta-6/Netflix_Clone.git](https://github.com/ShreshthGupta-6/Netflix_Clone.git)
 2. Navigate to the project directory:
 cd Netflix_Clone
 3. Open the project:
